@@ -1,0 +1,61 @@
+body {
+  background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+  color: white;
+  min-height: 100vh;
+}
+
+.card {
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.4);
+}
+
+.table {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.btn {
+  border-radius: 8px;
+}
+
+
+/* ===== NAVBAR ===== */
+.navbar-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 28px;
+    background: linear-gradient(135deg, #1f2933, #111827);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.4);
+}
+
+.navbar-left {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.navbar-right a {
+    margin-left: 14px;
+    padding: 8px 14px;
+    text-decoration: none;
+    color: #e5e7eb;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+.navbar-right a:hover {
+    background-color: #374151;
+}
+
+.btn-admin {
+    background-color: #facc15;
+    color: #000 !important;
+}
+
+.btn-logout {
+    background-color: #ef4444;
+    color: #fff !important;
+}
+
+
