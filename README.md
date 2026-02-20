@@ -66,5 +66,19 @@ A full-stack \*\*Car Rental System\*\* built using \*\*Java, JSP, Servlets, JDBC
 
 Aakash Puri
 
+<img width="1051" height="655" alt="image" src="https://github.com/user-attachments/assets/5300c182-6963-4f66-832e-cba9bfe8fe81" />
+
+
+<img width="1064" height="643" alt="image" src="https://github.com/user-attachments/assets/ac53a909-dbfb-4fc5-9fb9-f9e859a41262" />
+
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/71162586-0ad9-4dcd-ab8d-b88e07c860a4" />
+
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/4f67486b-9559-45c5-8a06-eade38f4ddb6" />
+
+
+
+
+
+
 
 
